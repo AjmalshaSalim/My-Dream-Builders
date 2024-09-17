@@ -647,7 +647,7 @@ overflow:visible;
 		text-transform: none;
 	}
 	
-	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#FAB702; }
+	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#fbdc80; }
 	
 	#mainmenu li:last-child a:after{display:none;}	
 
@@ -718,7 +718,7 @@ overflow:visible;
 	padding: 0px 12px 0px 12px;
 	border-top: none;
 	color: #ccc;
-	width:201px;
+	width:260px;
 	border-left:none;
 	text-align:left;
 	}
@@ -743,7 +743,7 @@ overflow:visible;
 	/* new added menu */
 	
 	#mainmenu li > ul {
-	width: 201px;
+	width: 260px;
 	height: 0;
 	position: absolute;
 	top: 80px;
@@ -2565,7 +2565,7 @@ left: 0;
 }
 
 .p-rating i.checked{
-	color:#FAB702;
+	color:#fbdc80;
 }
 .p-single h3{
 	margin-bottom: 5px;
